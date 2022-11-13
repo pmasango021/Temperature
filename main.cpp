@@ -2,9 +2,15 @@
 
 int main() {
 
-    double tempf = 65;
-    double tempc = 0;
+    double tempf;
+    double tempc;
+
+    // Ask the user
+    std::cout << "Enter the temperature in Fahrenheit: \n";
+    std::cin >> tempf;
+
     tempc = (tempf - 32) / 1.8;
+
     std::cout << "The temp is " << tempc << " degrees Celsius.\n";
 
 }
