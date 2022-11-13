@@ -1,0 +1,15 @@
+# ninja log v5
+1	3960	6900012518611388	CMakeFiles/Temperature.dir/main.cpp.obj	af8f431bb40d6036
+3967	7362	6900012530914316	Temperature.exe	fbdf9a93c4dd3ed7
+12	2318	6900013363543635	CMakeFiles/Temperature.dir/main.cpp.obj	af8f431bb40d6036
+2319	3296	6900013372815157	Temperature.exe	fbdf9a93c4dd3ed7
+14	4325	6900013540756978	CMakeFiles/Temperature.dir/main.cpp.obj	af8f431bb40d6036
+4326	5346	6900013551281137	Temperature.exe	fbdf9a93c4dd3ed7
+10	3124	6900014100467515	CMakeFiles/Temperature.dir/main.cpp.obj	af8f431bb40d6036
+3126	3967	6900014108676727	Temperature.exe	fbdf9a93c4dd3ed7
+14	2817	6900014605467364	CMakeFiles/Temperature.dir/main.cpp.obj	af8f431bb40d6036
+2819	4554	6900014620473522	Temperature.exe	fbdf9a93c4dd3ed7
+11	4145	6900014907119668	CMakeFiles/Temperature.dir/main.cpp.obj	af8f431bb40d6036
+4146	5306	6900014919009299	Temperature.exe	fbdf9a93c4dd3ed7
+10	4464	6900015269327067	CMakeFiles/Temperature.dir/main.cpp.obj	af8f431bb40d6036
+4466	6347	6900015281655656	Temperature.exe	fbdf9a93c4dd3ed7
